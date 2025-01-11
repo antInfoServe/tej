@@ -1,7 +1,7 @@
 {
   "id": "API Essentials/Web APIs/http-methods",
-  "title": "http-methods",
-  "description": "",
+  "title": "HTTP methods",
+  "description": "This article explains the most used http methods and the associated CRUD operations",
   "source": "@site/docs/API Essentials/Web APIs/http-methods.md",
   "sourceDirName": "API Essentials/Web APIs",
   "slug": "/API Essentials/Web APIs/http-methods",
@@ -10,14 +10,23 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "HTTP methods",
+    "description": "This article explains the most used http methods and the associated CRUD operations",
+    "keywords": [
+      "http methods",
+      "crud operations"
+    ]
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "What are Web APIs?",
     "permalink": "/docs/API Essentials/Web APIs/web-apis"
   },
   "next": {
-    "title": "http-status-codes",
+    "title": "HTTP status codes",
     "permalink": "/docs/API Essentials/Web APIs/http-status-codes"
   }
 }
