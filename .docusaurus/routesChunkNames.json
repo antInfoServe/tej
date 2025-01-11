@@ -1,0 +1,112 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-3a9": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-cb4": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-fcb": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/API Essentials/crud-operations-389": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-essentials-crud-operationsca-9-7d6"
+  },
+  "/docs/API Essentials/Web APIs/http-methods-9fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-essentials-web-ap-is-http-methods-2-c-6-a8a"
+  },
+  "/docs/API Essentials/Web APIs/http-status-codes-b54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-essentials-web-ap-is-http-status-codes-416-c0b"
+  },
+  "/docs/API Essentials/Web APIs/web-apis-86e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-essentials-web-ap-is-web-apis-117-458"
+  },
+  "/docs/API Essentials/what-is-an-api-ecb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-essentials-what-is-an-api-68-d-77f"
+  },
+  "/docs/category/api-essentials-9ae": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-api-essentials-69-a-662"
+  },
+  "/docs/category/tutorial---extras-9ad": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-978": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+  },
+  "/docs/tutorial-extras/translate-your-site-f9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

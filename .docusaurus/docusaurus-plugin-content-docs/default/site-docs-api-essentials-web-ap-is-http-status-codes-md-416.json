@@ -1,0 +1,23 @@
+{
+  "id": "API Essentials/Web APIs/http-status-codes",
+  "title": "http-status-codes",
+  "description": "",
+  "source": "@site/docs/API Essentials/Web APIs/http-status-codes.md",
+  "sourceDirName": "API Essentials/Web APIs",
+  "slug": "/API Essentials/Web APIs/http-status-codes",
+  "permalink": "/docs/API Essentials/Web APIs/http-status-codes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "http-methods",
+    "permalink": "/docs/API Essentials/Web APIs/http-methods"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

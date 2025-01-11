@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "API Essentials/crud-operations",
+              "path": "/docs/API Essentials/crud-operations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API Essentials/Web APIs/http-methods",
+              "path": "/docs/API Essentials/Web APIs/http-methods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API Essentials/Web APIs/http-status-codes",
+              "path": "/docs/API Essentials/Web APIs/http-status-codes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API Essentials/Web APIs/web-apis",
+              "path": "/docs/API Essentials/Web APIs/web-apis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API Essentials/what-is-an-api",
+              "path": "/docs/API Essentials/what-is-an-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/api-essentials",
+              "path": "/docs/category/api-essentials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

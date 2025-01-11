@@ -1,0 +1,26 @@
+{
+  "id": "API Essentials/crud-operations",
+  "title": "CRUD Operations",
+  "description": "1 min read",
+  "source": "@site/docs/API Essentials/crud-operations.md",
+  "sourceDirName": "API Essentials",
+  "slug": "/API Essentials/crud-operations",
+  "permalink": "/docs/API Essentials/crud-operations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is an API?",
+    "permalink": "/docs/API Essentials/what-is-an-api"
+  },
+  "next": {
+    "title": "What are Web APIs?",
+    "permalink": "/docs/API Essentials/Web APIs/web-apis"
+  }
+}

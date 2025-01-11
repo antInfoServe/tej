@@ -1,0 +1,23 @@
+{
+  "id": "API Essentials/Web APIs/http-methods",
+  "title": "http-methods",
+  "description": "",
+  "source": "@site/docs/API Essentials/Web APIs/http-methods.md",
+  "sourceDirName": "API Essentials/Web APIs",
+  "slug": "/API Essentials/Web APIs/http-methods",
+  "permalink": "/docs/API Essentials/Web APIs/http-methods",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What are Web APIs?",
+    "permalink": "/docs/API Essentials/Web APIs/web-apis"
+  },
+  "next": {
+    "title": "http-status-codes",
+    "permalink": "/docs/API Essentials/Web APIs/http-status-codes"
+  }
+}

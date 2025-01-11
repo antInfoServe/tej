@@ -1,0 +1,33 @@
+{
+  "id": "API Essentials/what-is-an-api",
+  "title": "What is an API?",
+  "description": "The article explains API with a real world example of movie ticket counter",
+  "source": "@site/docs/API Essentials/what-is-an-api.md",
+  "sourceDirName": "API Essentials",
+  "slug": "/API Essentials/what-is-an-api",
+  "permalink": "/docs/API Essentials/what-is-an-api",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "What is an API?",
+    "description": "The article explains API with a real world example of movie ticket counter",
+    "keywords": [
+      "what is an api",
+      "api",
+      "application programing interface"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Essentials",
+    "permalink": "/docs/category/api-essentials"
+  },
+  "next": {
+    "title": "CRUD Operations",
+    "permalink": "/docs/API Essentials/crud-operations"
+  }
+}
